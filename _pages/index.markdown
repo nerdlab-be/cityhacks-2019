@@ -8,7 +8,7 @@ hero:
   date: "22 en 23 november start om 9u"
   location: "De Republiek, Brugge"
   locationLink: "http://republiekbrugge.be/"
-  image: "/assets/img/jpg/hero.jpg"
+  image: "/assets/img/jpg/cultuur_hero.jpg"
   imageAlt: "Cityhacks 2019"
 opdracht:
   title: "Opdracht:"
@@ -22,12 +22,12 @@ Maar hoe zou dat kunnen werken voor een boek uit de bibliotheek of een voorstell
     - para: "Een professionele jury"
     - para: "Een schone prijzenpot"
   images:
-    - image: "/assets/img/jpg/food.jpg"
-      alt: "Cityhacks 2017"
-    - image: "/assets/img/jpg/network.jpg"
-      alt: "Cityhacks 2017"
-    - image: "/assets/img/jpg/pitch.jpg"
-      alt: "Cityhacks 2017"
+    - image: "/assets/img/jpg/ch2018_1.jpg"
+      alt: "Cityhacks 2018 : team"
+    - image: "/assets/img/jpg/ch2018_2.jpg"
+      alt: "Cityhacks 201!: coach"
+    - image: "/assets/img/jpg/ch2018_3.jpg"
+      alt: "Cityhacks 2018: pitch"
 program:
   title: "Op het programma:"
   dataTitle: "Data Dive"
