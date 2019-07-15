@@ -15,8 +15,8 @@ exclude:
   - ".*"
 timezone: UTC
 author: Nerdlab
-title: "CityHacks 2018"
-description: "Hoe kan de Stad zorgen voor een betere leefomgeving voor haar inwoners. Bedenk een app die steunt op open data en toon aan hoe deze mensen zal helpen. Dat kan een app voor het web, je telefoon of een nieuw uitgevonden toestel zijn."
+title: "CityHacks 2019"
+description: "Hoe meet je cultuurbeleving? Tijdens Cityhacks 2019 ga we in teams opzoek naar antwoorden."
 url: "https://cityhacks.be"
 navigation:
   - title: Opdracht
@@ -26,7 +26,7 @@ navigation:
   - title: Open data
     url: "index.html#data"
 navigation-cta:
-  - title: De resultaten
+  - title: Schrijf in
     url: "index.html#inschrijven"
 
 social:
