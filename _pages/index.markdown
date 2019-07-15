@@ -4,15 +4,17 @@ layout: template-index
 permalink: "/"
 #CONTENT
 hero:
-  title: "Bedenk de properste app voor Brugge!"
+  title: "Hoe meet je cultuurbeleving?"
   date: "22 en 23 november start om 9u"
   location: "De Republiek, Brugge"
   locationLink: "http://republiekbrugge.be/"
   image: "/assets/img/jpg/hero.jpg"
-  imageAlt: "Cityhacks 2018"
+  imageAlt: "Cityhacks 2019"
 opdracht:
   title: "Opdracht:"
-  para: "Hoe kan de Stad zorgen voor een betere leefomgeving voor haar inwoners. Bedenk een app die steunt op open data en toon aan hoe deze mensen zal helpen. Dat kan een app voor het web, je telefoon of een nieuw uitgevonden toestel zijn."
+  para: "Hoe spannend een boek is? Hoe ontroerend een voorstelling is? Hoe grappig een comedian?
+Hoe weet Spotify welke muziek in je ‘discover weekly’ moet komen? Hoe weet Netflix welke nieuwe series ze je best kunnen aanraden? Hoe weet Facebook welke nieuwe vrienden je net gemaakt hebt in het echte leven? Allemaal op basis van jouw gedrag en meetinstrumenten in je telefoon of in de site zelf.
+Maar hoe zou dat kunnen werken voor een boek uit de bibliotheek of een voorstelling in het concertgebouw? Tijdens Cityhacks 2019 ga je, samen met je team, opzoek naar antwoorden. In de vorm van ideeën, concepten en prototypes. "
   subtitle: "Wij fixen:"
   list:
     - para: "Een inspirerende werkplek in het centrum van de stad."
@@ -49,8 +51,8 @@ program:
       para: "Taart en koffie"
     - hour: "18u00"
       para: "Dinner is served"
-    - hour: "21u00"
-      para: "Een superleuke verrassing"
+    - hour: "23u00"
+      para: "Genoeg voor vandaag"
   saturday: "Zaterdag"
   saturdayDate: "10/11"
   scheduleSaturday:
