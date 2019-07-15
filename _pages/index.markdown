@@ -23,16 +23,16 @@ Maar hoe zou dat kunnen werken voor een boek uit de bibliotheek of een voorstell
     - para: "Een schone prijzenpot"
   images:
     - image: "/assets/img/jpg/ch2018_1.jpg"
-      alt: "Cityhacks 2018 : team"
+      alt: "Cityhacks: team"
     - image: "/assets/img/jpg/ch2018_2.jpg"
-      alt: "Cityhacks 201!: coach"
+      alt: "Cityhacks: coach"
     - image: "/assets/img/jpg/ch2018_3.jpg"
-      alt: "Cityhacks 2018: pitch"
+      alt: "Cityhacks: pitch"
 program:
   title: "Op het programma:"
   dataTitle: "Data Dive"
   dataDate: "06/11"
-  dataPara: "Op woensdag 24 oktober duiken we al eens in de beschikbare data en geven we de volledige uitleg hoe we het gaan aanpakken. Afspraak om 19u in de Republiek."
+  dataPara: "Op woensdag 6 november duiken we al eens in de beschikbare data en geven we de volledige uitleg hoe we het gaan aanpakken. Afspraak om 19u in de Republiek."
   friday: "Vrijdag"
   fridayDate: "22/11"
   scheduleFriday:
@@ -68,9 +68,9 @@ coaches:
   link: "Coach worden? Mail Julie"
   linkHref: "mailto:julie.naesens@ocwest.be"
 subscribe:
-  title: "De resultaten"
-  para: "Na een vruchtvolle hackathon, waar 11 teams het beste van zichzelf gaven blijft deze buit over: 11 presentaties en demo's om u tegen te zeggen."
-  link: "Bekijk de presentaties"
+  title: "Schrijf meteen in"
+  para: "Aarzel niet langer, verzamel de namen en e-mailadressen van je teamgenoten, bedenk een naam en schrijf in!"
+  link: "Naar het formulier!"
   linkHref: "https://drive.google.com/drive/folders/1eyqkxVAa1edd2_GTumkaOsbrHT2YTzwI?usp=sharing"
 ---
 
