@@ -12,8 +12,7 @@ hero:
   imageAlt: "Cityhacks 2019"
 opdracht:
   title: "Opdracht:"
-  para: "Hoe spannend een boek is? Hoe ontroerend een voorstelling is? Hoe grappig een comedian?
-Hoe weet Spotify welke muziek in je ‘discover weekly’ moet komen? Hoe weet Netflix welke nieuwe series ze je best kunnen aanraden? Hoe weet Facebook welke nieuwe vrienden je net gemaakt hebt in het echte leven? Allemaal op basis van jouw gedrag en meetinstrumenten in je telefoon of in de site zelf.
+  para: "Hoe weet Spotify welke muziek in je ‘discover weekly’ moet komen? Hoe weet Netflix welke nieuwe series ze je best kunnen aanraden? Hoe weet Facebook welke nieuwe vrienden je net gemaakt hebt in het echte leven? Allemaal op basis van jouw gedrag en meetinstrumenten in je telefoon of in de site zelf.
 Maar hoe zou dat kunnen werken voor een boek uit de bibliotheek of een voorstelling in het concertgebouw? Tijdens Cityhacks 2019 ga je, samen met je team, opzoek naar antwoorden. In de vorm van ideeën, concepten en prototypes. "
   subtitle: "Wij fixen:"
   list:
