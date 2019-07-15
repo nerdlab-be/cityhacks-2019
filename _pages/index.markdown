@@ -5,7 +5,7 @@ permalink: "/"
 #CONTENT
 hero:
   title: "Bedenk de properste app voor Brugge!"
-  date: "9 en 10 november van 9u tot 9u"
+  date: "22 en 23 november start om 9u"
   location: "De Republiek, Brugge"
   locationLink: "http://republiekbrugge.be/"
   image: "/assets/img/jpg/hero.jpg"
