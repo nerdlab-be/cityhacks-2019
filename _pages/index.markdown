@@ -31,10 +31,10 @@ Maar hoe zou dat kunnen werken voor een boek uit de bibliotheek of een voorstell
 program:
   title: "Op het programma:"
   dataTitle: "Data Dive"
-  dataDate: "24/10"
+  dataDate: "06/11"
   dataPara: "Op woensdag 24 oktober duiken we al eens in de beschikbare data en geven we de volledige uitleg hoe we het gaan aanpakken. Afspraak om 19u in de Republiek."
   friday: "Vrijdag"
-  fridayDate: "09/11"
+  fridayDate: "22/11"
   scheduleFriday:
     - hour: "8u00"
       para: "Deuren open voor koffie"
@@ -53,7 +53,7 @@ program:
     - hour: "23u00"
       para: "Genoeg voor vandaag"
   saturday: "Zaterdag"
-  saturdayDate: "10/11"
+  saturdayDate: "23/11"
   scheduleSaturday:
     - hour: "8u00"
       para: "Ontbijt"
