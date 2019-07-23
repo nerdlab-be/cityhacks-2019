@@ -71,6 +71,6 @@ subscribe:
   title: "Schrijf meteen in"
   para: "Aarzel niet langer, verzamel de namen en e-mailadressen van je teamgenoten, bedenk een naam en schrijf in!"
   link: "Naar het formulier!"
-  linkHref: "https://drive.google.com/drive/folders/1eyqkxVAa1edd2_GTumkaOsbrHT2YTzwI?usp=sharing"
+  linkHref: "https://docs.google.com/forms/d/e/1FAIpQLSfYTbqp_qkRwl749heXY9221920Akph6qpTvEpbz6AlTVJOBA/viewform?usp=sf_link"
 ---
 
