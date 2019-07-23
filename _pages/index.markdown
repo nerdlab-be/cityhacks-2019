@@ -60,7 +60,7 @@ program:
     - hour: "9u00"
       para: "Start pitches"
     - hour: "10u30"
-      para: "Talks tijdens Juryberaadslaging"
+      para: "Mopjes tijdens Juryberaadslaging"
     - hour: "11u30"
       para: "Prijzen en bubbels"
 coaches:
