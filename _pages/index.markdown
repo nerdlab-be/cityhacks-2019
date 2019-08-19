@@ -4,7 +4,7 @@ layout: template-index
 permalink: "/"
 #CONTENT
 hero:
-  title: "Hoe meet je cultuurbeleving?"
+  title: "Kunst Meten"
   date: "22 en 23 november start om 9u"
   location: "De Republiek, Brugge"
   locationLink: "http://republiekbrugge.be/"
@@ -20,7 +20,6 @@ Maar hoe zou dat kunnen werken voor een boek uit de bibliotheek of een voorstell
     - para: "Eten en drinken, ja zelfs pintjes"
     - para: "Eén coach die jullie team opvolgt"
     - para: "Een professionele jury"
-    - para: "Een schone prijzenpot"
   images:
     - image: "/assets/img/jpg/ch2018_1.jpg"
       alt: "Cityhacks: team"
@@ -56,10 +55,12 @@ program:
   saturdayDate: "23/11"
   scheduleSaturday:
     - hour: "8u00"
-      para: "Ontbijt"
+      para: "Ontbijt & klaarzetten"
     - hour: "9u00"
       para: "Start pitches"
-    - hour: "10u30"
+    - hour: "9u30"
+      para: "Start Markt"
+    - hour: "11u00"
       para: "Mopjes tijdens Juryberaadslaging"
     - hour: "11u30"
       para: "Prijzen en bubbels"
