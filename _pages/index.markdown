@@ -12,9 +12,9 @@ hero:
   imageAlt: "Cityhacks 2019"
 opdracht:
   title: "De uitdaging:"
-  para: "Hoe weet Spotify welke muziek in je ‘discover weekly’ moet komen? Hoe weet Netflix welke nieuwe series ze je best kunnen aanraden? Hoe weet Facebook welke nieuwe vrienden je net gemaakt hebt in het echte leven? Allemaal op basis van jouw gedrag en meetinstrumenten in je telefoon of in de site zelf.
-Maar hoe zou dat kunnen werken voor een boek uit de bibliotheek of een voorstelling in het concertgebouw? Tijdens Cityhacks 2019 ga je, samen met je team, opzoek naar antwoorden. In de vorm van ideeën, concepten en prototypes. "
-  subtitle: "Wij fixen:"
+  para: "Hoe weet Spotify welke muziek in je ‘discover weekly’ moet komen? Hoe weet Netflix welke nieuwe series ze je best kunnen aanraden? Hoe kan je meten welk boek, schilderij of voorstelling jou overweldigd? </br>
+Tijdens Cityhacks gaan we samen op zoek naar hoe je cultuurbeleving kan meten. Met sensoren of door bestaande data te remixen. We gieten onze oplossingen in concepten en prototypes."
+  subtitle: "Wij zorgen alvast voor:"
   list:
     - para: "Een inspirerende werkplek in het centrum van de stad."
     - para: "Eten en drinken, ja zelfs pintjes"
