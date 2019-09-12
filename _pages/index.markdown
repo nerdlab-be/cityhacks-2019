@@ -31,7 +31,7 @@ program:
   title: "Op het programma:"
   dataTitle: "Data Dive"
   dataDate: "06/11"
-  dataPara: "Op woensdag 6 november duiken we al eens in de beschikbare data en geven we de volledige uitleg hoe we het gaan aanpakken. Afspraak om 19u in de Republiek."
+  dataPara: "Op woensdag 6 november duiken we al eens in de beschikbare data en geven we de volledige uitleg hoe we het gaan aanpakken. Afspraak om 19u in de Republiek. <strong>!Opgepast, hiervoor moet je trappen doen!</strong>"
   friday: "Vrijdag"
   fridayDate: "22/11"
   scheduleFriday:
