@@ -65,7 +65,7 @@ program:
     - hour: "10u45"
       para: "Mopjes tijdens Juryberaadslaging"
     - hour: "11u15"
-      para: "Applaus en bubbels"
+      para: "Applaus voor iedereen!"
 coaches:
   title: "De coaches"
   link: "Coach worden? Mail Julie"
