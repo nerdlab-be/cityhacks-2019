@@ -51,6 +51,8 @@ program:
       para: "Koffie met taart"
     - hour: "18u00"
       para: "Weeral eten en stand bedenken"
+    - hour: "20u00"
+      para: "Opstelling testen in het Concertgebouw"
     - hour: "23u00"
       para: "Genoeg voor vandaag"
   saturday: "Zaterdag"
