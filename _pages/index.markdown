@@ -73,9 +73,8 @@ coaches:
   link: "Coach worden? Mail Julie"
   linkHref: "mailto:julie.naesens@ocwest.be"
 subscribe:
-  title: "Schrijf meteen in"
-  para: "Aarzel niet langer, verzamel de namen en e-mailadressen van je teamgenoten, bedenk een naam en schrijf in!"
-  link: "Naar het formulier!"
-  linkHref: "https://docs.google.com/forms/d/e/1FAIpQLSfYTbqp_qkRwl749heXY9221920Akph6qpTvEpbz6AlTVJOBA/viewform?usp=sf_link"
+  title: "Helemaal volzet"
+  para: "Sorry, maar alle plaatsen zijn ingenomen"
+  link: "Volgende keer dan?"
 ---
 
