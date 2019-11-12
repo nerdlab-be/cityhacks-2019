@@ -14,7 +14,7 @@ layout: default
         <h1 class="c-page-title">{{ page.hero.title }}</h1>
         <ul class="o-list-bare c-list-big">
           <li class="c-list-big__item">{% include atom.icon.html value="date" %} {{ page.hero.date }}</li>
-          <li class="c-list-big__item"><a href="{{ page.hero.locationLink }}" class="c-link c-link--faux c-link--negative" target="_blank">{% include atom.icon.html value="location" %} {{ page.hero.location}}</a></li>
+          <li class="c-list-big__item">{% include atom.icon.html value="location" %} <a href="{{ page.hero.locationLink }}" class="c-link c-link--faux c-link--negative" target="_blank">{{ page.hero.location}}</a> &amp; <a href="{{ page.hero.locationLinkTwo }}" class="c-link c-link--faux c-link--negative" target="_blank">{{ page.hero.locationTwo}}</a></li>
         </ul>
       </div>
     </div>
