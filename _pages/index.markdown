@@ -6,8 +6,10 @@ permalink: "/"
 hero:
   title: "Kunst Meten"
   date: "22 en 23 november start om 9u"
-  location: "De Republiek, Brugge"
+  location: "De Republiek"
   locationLink: "http://republiekbrugge.be/"
+  locationTwo: "Concertgebouw"
+  locationLinkTwo: "https://www.concertgebouw.be"
   image: "/assets/img/jpg/cultuur_hero.jpg"
   imageAlt: "Cityhacks 2019"
 opdracht:
@@ -32,7 +34,7 @@ program:
   dataTitle: "Data Dive"
   dataDate: "06/11"
   dataPara: "Op woensdag 6 november duiken we al eens in de beschikbare data en geven we de volledige uitleg hoe we het gaan aanpakken. Afspraak om 19u in de Republiek. <strong>!Opgepast, hiervoor moet je trappen doen!</strong>"
-  friday: "Vrijdag"
+  friday: "Vrijdag in de Republiek"
   fridayDate: "22/11"
   scheduleFriday:
     - hour: "8u15"
@@ -55,7 +57,7 @@ program:
       para: "Opstelling testen in het Concertgebouw"
     - hour: "23u00"
       para: "Genoeg voor vandaag"
-  saturday: "Zaterdag"
+  saturday: "Zaterdag in het Concertgebouw"
   saturdayDate: "23/11"
   scheduleSaturday:
     - hour: "8u00"
