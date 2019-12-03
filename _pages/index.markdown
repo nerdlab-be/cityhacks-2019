@@ -75,8 +75,8 @@ coaches:
   link: "Coach worden? Mail Julie"
   linkHref: "mailto:julie.naesens@ocwest.be"
 subscribe:
-  title: "Helemaal volzet"
-  para: "Sorry, maar alle plaatsen zijn ingenomen"
-  link: "Volgende keer dan?"
+  title: "De resultaten"
+  para: "Check de concepten en prototypes van de 9 groepen. <a href='https://www.facebook.com/pg/turbobrugge/photos/?tab=album&album_id=2471637146425724&ref=page_internal'>Er zijn ook foto's</a>"
+  link: "Bhttps://docs.google.com/presentation/d/1snIu0h6BUL0dI3QdD5XyClBagf1pL3kcM4DUm-J64Bk/edit?usp=sharing"
 ---
 
