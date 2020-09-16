@@ -5,13 +5,11 @@ permalink: "/"
 #CONTENT
 hero:
   title: "Kunst Meten"
-  date: "22 en 23 november start om 9u"
-  location: "De Republiek"
-  locationLink: "http://republiekbrugge.be/"
-  locationTwo: "Concertgebouw"
-  locationLinkTwo: "https://www.concertgebouw.be"
+  date: "13 en 14 november start om 9u"
+  location: "ONLINE via Discord en Youtube"
+  locationLink: "https://youtube.com/"
   image: "/assets/img/jpg/cultuur_hero.jpg"
-  imageAlt: "Cityhacks 2019"
+  imageAlt: "Cityhacks 2020"
 opdracht:
   title: "De uitdaging:"
   para: "Je telefoon meet via de stappenteller hoe fit je bent. Je bankapp combineert je gegevens om te tonen hoe rijk je bent. Maar hoe kan je meten welk boek, schilderij of voorstelling jou overweldigt? </br>
