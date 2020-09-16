@@ -6,8 +6,10 @@ permalink: "/"
 hero:
   title: "Kunst Meten"
   date: "13 en 14 november start om 9u"
-  location: "ONLINE via Discord en Youtube"
-  locationLink: "https://youtube.com/"
+  location: "De Republiek"
+  locationLink: "https://republiekbrugge.be/"
+    location: "Het Concertgebouw"
+  locationLink: "https://www.concertgebouw.be/"
   image: "/assets/img/jpg/cultuur_hero.jpg"
   imageAlt: "Cityhacks 2020"
 opdracht:
